@@ -12,3 +12,7 @@ SELECT 'INTERVALO NOW'
 -- COMMAND ----------
 
 SELECT 'TOMATE'
+
+-- COMMAND ----------
+
+SELECT 10 *2
